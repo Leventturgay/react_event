@@ -1,9 +1,10 @@
 import "./App.css";
+import Events from "./components/1-events/events";
 
 function App() {
   return (
     <div>
-      <h1>EVENTS</h1>
+      <Events />
     </div>
   );
 }
